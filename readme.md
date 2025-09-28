@@ -107,13 +107,3 @@ This project showcases **machine learning as a decision-support tool** for finan
    # 🏦 Loan Default Prediction — Lending Club Dataset
 
 ---
-
-
-
----
-
-
-
-
----
-
